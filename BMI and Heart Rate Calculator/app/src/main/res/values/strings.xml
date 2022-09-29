@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BMI and Heart Rate Calculator</string>
+    <string name="calculate_BMI">Let\'s calculate your BMI!</string>
+    <string name="ask_height">How Tall are you?</string>
+    <string name="ask_weight">How much do you weigh?</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="clear_button">Clear</string>
+    <string name="heartRate_button">Calculate Heart Rate</string>
+    <string name="feet_box">Feet</string>
+    <string name="inches_box">Inches</string>
+    <string name="pounds_box">Pounds (lbs)</string>
+    <string name="overweight">Overweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="obese">Obese</string>
+    <string name="bmi">BMI: %.1f</string>
+    <string name="missingData">Missing Data</string>
+    <string name="calculate_heartRate">Let\'s Calculate Your\nMax Heart Rate</string>
+    <string name="ask_age">How Old Are You?</string>
+    <string name="age_box">Your Age</string>
+    <string name="maximum_and_target">Maximum:\nTarget:</string>
+    <string name="maximum_and_target_number">%d\n%d - %d</string>
+</resources>
